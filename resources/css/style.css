@@ -1,0 +1,35 @@
+HTML {
+  Background-color: black;
+  text-align: center;
+}
+
+H1 {
+  Font-weight: normal;
+  Font-family: Verdana;
+  Font-size: 50px;
+  Color: white;
+  Text-align: center;
+}
+
+ {
+  Color: aquamarine;
+  Font-size: 16px;
+}
+
+H2 {
+  Font-family: Verdana;
+  Font-weight: 300;
+  Font-size: 42px;
+  Color: white;
+}
+
+.interest {
+  Font-family: Verdana;
+  Font-size: 21px;
+  Color: gray;
+}
+
+.cr {
+  Color: gray;
+  text-align: right;
+}
